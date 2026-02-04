@@ -2,7 +2,7 @@
 
 ## Full-Stack Developer | Cybersecurity Enthusiast | Accra, Ghana 🇬🇭
 
-I build production-grade systems that scale. Lead developer of **[Joybundle](https://joydatabundle.com)** — managing **$5000+ USD** in revenue across **500+ resellers**.
+I build production-grade systems that scale. Lead developer of **[Joybundle](https://joydatabundle.com)** — managing **$15,000+ USD** in revenue across **500+ resellers**.
 
 ---
 
@@ -21,9 +21,9 @@ I build production-grade systems that scale. Lead developer of **[Joybundle](htt
 
 **Digital Bundle Distribution Platform** | [Live Link](https://joydatabundle.com)
 
-- 💰 **$8000+** in revenue
+- 💰 **15,000+** in revenue
 - 👥 **500+** active resellers  
-- 📊 **3,000+** transactions
+- 📊 **10,000+** transactions
 
 Architected and deployed a scalable full-stack system. Fixed JWT token browser compatibility, implemented atomic transactions, optimized with MongoDB indexes & React Query caching.
 
