@@ -2,7 +2,7 @@
 
 ## Full-Stack Developer | Cybersecurity Enthusiast | Accra, Ghana 🇬🇭
 
-I build production-grade systems that scale. Lead developer of **[Joybundle](https://joydatabundle.com)** — managing **$15,000+ USD** in revenue across **500+ resellers**.
+I build production-grade systems that scale. Lead developer of **[Joybundle](https://www.joydatabundle.com/)** — managing **$15,000+ USD** in revenue across **500+ resellers**.
 
 ---
 
@@ -19,7 +19,7 @@ I build production-grade systems that scale. Lead developer of **[Joybundle](htt
 
 ## 🎯 Joybundle - Lead Developer
 
-**Digital Bundle Distribution Platform** | [Live Link](https://joydatabundle.com)
+**Digital Bundle Distribution Platform** | [Live Link](https://www.joydatabundle.com/)
 
 - 💰 **15,000+** in revenue
 - 👥 **500+** active resellers  
@@ -45,7 +45,7 @@ Architected and deployed a scalable full-stack system. Fixed JWT token browser c
 📧 **[david.chukwurah.009@gmail.com](mailto:david.chukwurah.009@gmail.com)**  
 📱 **+233 (0)574035088**
 
-🔗 **[LinkedIn](https://linkedin.com/in/david-chukwurah-8435a5277)** | 🌐 **[Portfolio](https://joydatabundle.com)**
+🔗 **[LinkedIn](https://linkedin.com/in/david-chukwurah-8435a5277)** | 🌐 **[Portfolio](https://www.joydatabundle.com/)**
 
 ---
 
